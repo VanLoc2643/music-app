@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/appmusic.git
+git clone [https://github.com/yourusername/appmusic.git](https://github.com/VanLoc2643/music-app)
 ```
 
 2. Navigate to the project directory:
